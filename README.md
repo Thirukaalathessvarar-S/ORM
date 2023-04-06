@@ -50,8 +50,7 @@ class StudentAdmin(admin.ModelAdmin):
 ## OUTPUT
 ![web_exp1(2)](https://user-images.githubusercontent.com/121166390/230269739-0129e48a-9329-4572-9712-1e3fe89b5698.png)
 
-![web_exp1](https://user-images.githubusercontent.com/121166390/230269757-b65c225e-a786-4be3-8309-cc58d6869105.png)
-
+![2023-04-06 (10)](https://user-images.githubusercontent.com/121166390/230270177-f12a6c71-30aa-4c0e-9d82-2a323614b14c.png)
 
 ## RESULT
 Thus a Django application is successfully developed to store and retrieve data from a database using Object Relational Mapping(ORM).
